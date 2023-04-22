@@ -15,8 +15,7 @@
 (define-flow sed (~> (string-append ".sed") (build-path here __)))
 
 (define anon->actual
-  (hash "capital-anonymized.md" "capital.md"
-        "labor-anonymized.md" "labor.md"))
+  (hash "labor-anonymized.md" "labor.md"))
 
 (define (make-lookup anon actual)
   (define anon-actual-table
