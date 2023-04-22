@@ -1,0 +1,9 @@
+# vim noise
+*~
+*.sw?
+
+# output
+*.html
+
+# Racket
+compiled/
