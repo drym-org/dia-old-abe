@@ -1,3 +1,5 @@
+Update (Apr 28, 2023): The reasoning here was extended to include an estimate of fresh labor (ref. the cost analysis), yielding a current value of USD 32375.
+
 TL;DR: we set the valuation at the estimated cost (USD 8750) -- which we agreed was a fair lower bound on valuation -- and set the market price as zero, so that every payment to the project counts fully as an investment.
 
 More detail:
