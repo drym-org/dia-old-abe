@@ -6,8 +6,7 @@
 * [Git] The version control system that records project development.
 * [Flake8] A code linting tool, which is used to detect simple errors during development.
 * [Coveralls] A test coverage monitoring service, which tracks changes in code coverage over time during development.
-* [Tox] A compatibility testing tool that tests the code on many different versions of the language during development.
-* [tox-gh-actions] A plugin that allows compatibility testing to be run every time there is a change in the source code.
+* [tox-gh-actions] A plugin that allows version compatibility testing to be run every time there is a change in the source code.
 * [Scribble] The language in which the project's documentation is written.
 * [black] A tool to automatically format the code according to conventions, during development.
 * [pytest-pudb] A tool that allows developers to enter a debugger when there is a failing test during development.

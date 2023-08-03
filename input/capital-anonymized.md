@@ -6,7 +6,6 @@
 * The version control system that records project development.
 * A code linting tool, which is used to detect simple errors during development.
 * A test coverage monitoring service, which tracks changes in code coverage over time during development.
-* A compatibility testing tool that tests the code on many different versions of the language during development.
 * A plugin that allows compatibility testing to be run every time there is a change in the source code.
 * The language in which the project's documentation is written.
 * A tool to automatically format the code according to conventions, during development.
