@@ -6,7 +6,7 @@ First, we agreed to compute the cost of the value generated in terms of standard
 
 C₁ = 70 person hours × $ 125 / hour = $8750.
 
-# Fresh work
+# Upto April 2023
 
 The above was current as of Dec 7, 2022 (dc3ab9f).
 
@@ -19,3 +19,15 @@ Approximately weekly meetings, about 2 hours each time, 3 attendees. Doing offli
 C₂ = 189 person hours × $ 125 / hour = $23625.
 
 C = C₁ + C₂ = $32,375
+
+# Upto August 2023
+
+Rough estimate of additional hours after dc3ab9f up to d68a1be is:
+
+Approximately weekly meetings, about 2 hours each time, 3 attendees. Some offline work between meetings.
+
+(3 people × 12 weeks × 2 hours/week) + (3 people × 12 weeks × 0.5 hours/week) = 90 person hours
+
+C₃ = 90 person hours × $ 125 / hour = $11250.
+
+C = C₁ + C₂ + C₃ = $43,625
