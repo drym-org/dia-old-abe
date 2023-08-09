@@ -8,6 +8,7 @@
 * A test coverage monitoring service, which tracks changes in code coverage over time during development.
 * A plugin that allows compatibility testing to be run every time there is a change in the source code.
 * The language in which the project's documentation is written.
+* The site hosting the project's documentation.
 * A tool to automatically format the code according to conventions, during development.
 * A tool that allows developers to enter a debugger when there is a failing test during development.
 * A tool that visually improves the user experience of running tests during development.

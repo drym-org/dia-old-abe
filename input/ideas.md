@@ -7,5 +7,5 @@
 * Primary market
 * Secondary market
 * Processing fees
-* Accounting
+* Automated accounting
 * Continuous Integration
