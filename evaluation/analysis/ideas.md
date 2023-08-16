@@ -3,8 +3,8 @@
 * Old Abe
   * Finance
     * Investment
-	  * Debt
-	  * Equity
+      * Debt
+      * Equity
       * Primary market
       * Secondary market
     * Value
