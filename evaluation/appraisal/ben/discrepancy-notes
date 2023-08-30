@@ -1,0 +1,17 @@
+paste evaluation/appraisal/*/capital*.md | grep -Eo '\[[[:digit:]]{1,3}%]' | grep -Eo '[[:digit:]]+' | paste - - - - | nl | awk '
+function min(a,b) { return a == 0 ? (b == 0 ? 101 : b) : (a <= b ? a : (b == 0 ? 101 : b)); }
+function max(a,b) { return a >= b ? a : b; }
+function min3(a,b,c) { return min(min(a,b),c); }
+function max3(a,b,c) { return max(max(a,b),c); }
+function min4(a,b,c,d) { return min(min(min(a,b),c),d); }
+function max4(a,b,c,d) { return max(max(max(a,b),c),d); }
+min4($2,$3,$4,$5) != 101 { print $1, min4($2,$3,$4,$5), max4($2,$3,$4,$5), max4($2,$3,$4,$5)-min4($2,$3,$4,$5); }
+'
+
+Have to account for 4 files, some of which are named differently! (Also some
+slighy formatting tweaks.)
+
+In the future, this version is too cumbersome. Use the #lang-parsed data and
+build a CSV or something.
+
+Output slightly tweaked to make more sense: https://gist.github.com/benknoble/c9329d2eab131ec4eb8fa2cb886d4415
