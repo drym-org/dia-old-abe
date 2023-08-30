@@ -1,3 +1,5 @@
+#lang abe/ideas2 ideas
+
 * Old Abe [100%]
   * Finance [40%]
     * Investment [50%]
