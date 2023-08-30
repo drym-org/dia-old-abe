@@ -1,6 +1,6 @@
 #lang abe/attribution2 capital-analysis
 
-* Old Abe
+* Old Abe [100%]
   * [70%] Development
     * [23%] Tools
       * [5%] A tool to automatically format the code according to conventions, during development.
