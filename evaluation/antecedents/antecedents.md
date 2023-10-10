@@ -1,4 +1,4 @@
-#lang abe/ideas2 ideas
+#lang abe/antecedents2 antecedents-attributions ["../appraisal/ideas.md" ideas]
 
 * Old Abe []
   * Finance []
