@@ -20,6 +20,8 @@
 	* 10% - 25%
 * Sales tax in different states in the US
 	* 5% - 9%
+* Quickbooks
+	* Ranging from $30/month flat, up to $325/month base plus $10 per employee.
 
 ## Valuation
 
