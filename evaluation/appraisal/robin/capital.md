@@ -17,7 +17,7 @@
       * The programming language that the project is implemented in. [25%]
       * The language in which the project's documentation is written. [25%]
       * A unit-testing framework for defining and running tests to verify project functionality during development. [30%]
-      * Configuration template allowing the project to declare dependencies and other packaging metadata.[20%]
+      * Configuration template allowing the project to declare dependencies and other packaging metadata. [20%]
     * Hosting [15%]
       * The infrastructure that runs tests and other code quality checks during development. [35%]
       * The platform publicly hosting the source code repository. [30%]
