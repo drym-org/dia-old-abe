@@ -3,23 +3,23 @@
 ## Pricing
 
 * Patreon
-	5% cut from all pledges
-	In addition, a separate 2.9% + $0.30 is taken out for the payment processor (Stripe)
+	* 5% cut from all pledges
+	* In addition, a separate 2.9% + $0.30 is taken out for the payment processor (Stripe)
 * GitHub Sponsors
-	No cut
-	2.9% + $0.30 for the payment processor (Stripe)
+	* No cut
+	* 2.9% + $0.30 for the payment processor (Stripe)
 * Kickstarter
-	5% cut
-	3-5% for the payment processor
+	* 5% cut
+	* 3-5% for the payment processor
 * GoFundMe
-	2.9% cut
-	0.30 USD for the payment processor
+	* 2.9% cut
+	* 0.30 USD for the payment processor
 * Credit card fees
-	ranging from 1.5% - 3%
+	* ranging from 1.5% - 3%
 * Restaurant tips
-	10% - 25%
+	* 10% - 25%
 * Sales tax in different states in the US
-	5% - 9%
+	* 5% - 9%
 
 ## Valuation
 
