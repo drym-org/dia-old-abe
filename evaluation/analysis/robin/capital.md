@@ -5,7 +5,7 @@
   * The platform publicly hosting the source code repository.
   * The version control system that records project development.
   * The site hosting the project's documentation.
-  * Configuration files allowing the project to declare dependencies and other packaging metadata.
+  * Configuration template allowing the project to declare dependencies and other packaging metadata.
   * The programming language that the project is implemented in.
   * The language in which the project's documentation is written.
 

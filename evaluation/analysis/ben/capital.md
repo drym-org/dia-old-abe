@@ -15,7 +15,7 @@
         * Programming
             * The language in which the project's documentation is written.
             * The programming language that the project is implemented in.
-            * Configuration files allowing the project to declare dependencies and other packaging metadata.
+            * Configuration template allowing the project to declare dependencies and other packaging metadata.
     * Collaboration Tools
         * The version control system that records project development.
         * An online meeting tool that project developers used to remotely work together.
