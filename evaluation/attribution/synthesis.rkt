@@ -2,9 +2,9 @@
 
 (require abe/dia
          qi
-         "capital.rkt"
-         "labor.rkt"
-         "ideas.rkt")
+         "../appraisal/deanonymized/capital.md"
+         "../appraisal/deanonymized/labor.md"
+         "../antecedents/antecedents.md")
 
 (define attributions (make-hash))
 
