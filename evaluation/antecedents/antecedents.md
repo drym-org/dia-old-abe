@@ -2,10 +2,10 @@
 
 * Old Abe []
   * Finance []
-    * Investment [Kickstarter]
+    * Investment []
       * Debt [DebtAntecedents]
       * Equity [Africa Greentec, SourceCred, RoyaltyOffRevenueLicense]
-      * Primary market [Amazon, Etsy]
+      * Primary market [Amazon, Etsy, Kickstarter]
       * Secondary market [Vinted, Grailed, NASDAQ, NYSE, eBay]
     * Value []
       * Dilution model [Africa Greentec]
