@@ -7,7 +7,7 @@ Development
 	Foundations
 		The programming language that the project is implemented in.
 		The language in which the project's documentation is written.
-		Configuration files allowing the project to declare dependencies and other packaging metadata.
+		Configuration template allowing the project to declare dependencies and other packaging metadata.
 	Automated Testing
 		A test coverage monitoring service, which tracks changes in code coverage over time during development.
 		A plugin that allows compatibility testing to be run every time there is a change in the source code.

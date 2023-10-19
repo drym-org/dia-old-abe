@@ -15,6 +15,6 @@
 * [pytest-tldr] A tool that allows developers to see simplified test results during development.
 * [pudb] A debugger to help identify the causes of problems during development.
 * [Makefile] Automation script for running common project development actions.
-* [Project shell] Configuration files allowing the project to declare dependencies and other packaging metadata.
+* [Project shell] Configuration template allowing the project to declare dependencies and other packaging metadata.
 * [Pytest] A unit-testing framework for defining and running tests to verify project functionality during development.
 * [Gather.town] An online meeting tool that project developers used to remotely work together.

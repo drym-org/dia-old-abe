@@ -1,4 +1,4 @@
-#lang abe/attribution2 capital-appraisal
+#lang abe/attribution2 capital-attributions
 
 * Old Abe [100%]
   * Development [75%]

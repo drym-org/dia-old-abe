@@ -21,7 +21,7 @@
 				* A unit-testing framework for defining and running tests to verify project functionality during development.
 			* Packaging
 				* Automation script for running common project development actions.
-				* Configuration files allowing the project to declare dependencies and other packaging metadata.
+				* Configuration template allowing the project to declare dependencies and other packaging metadata.
 		* Infrastructure
 			* The infrastructure that runs tests and other code quality checks during development.
 			* A test coverage monitoring service, which tracks changes in code coverage over time during development.
