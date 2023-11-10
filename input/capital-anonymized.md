@@ -15,6 +15,6 @@
 * A tool that allows developers to see simplified test results during development.
 * A debugger to help identify the causes of problems during development.
 * Automation script for running common project development actions.
-* Configuration files allowing the project to declare dependencies and other packaging metadata.
+* Configuration template allowing the project to declare dependencies and other packaging metadata.
 * A unit-testing framework for defining and running tests to verify project functionality during development.
 * An online meeting tool that project developers used to remotely work together.

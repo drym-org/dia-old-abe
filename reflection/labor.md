@@ -1,0 +1,7 @@
+Inputs [Ariana, Sid]
+Analysis [Ariana, Ben, Robin, Sid]
+Appraisal [Ariana, Ben, Robin, Sid]
+Antecedents [Ariana, Ben, Robin, Sid, WillHansen]
+Pricing and valuation [Ben, Robin, Sid]
+Tallying [Ben]
+Review and ratification [Ariana, Ben, Jair, Robin, Sid]
